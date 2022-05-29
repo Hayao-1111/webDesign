@@ -1,0 +1,24 @@
+body {
+	font-family: "Times New Roman", "Î¢ÈíÑÅºÚ", "Ó×Ô²";
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	background-image: url(../image/Title_and_background/background.jpg);
+	background-repeat: repeat;
+	color: #FFFFFF;
+}
+h1 {
+	font-family: "Times New Roman", "ºÚÌå", "Î¢ÈíÑÅºÚ", "ĞÂËÎÌå";
+	font-size: 36px;
+	font-weight: 600;
+	color: #FFFFFF;
+}
+#Fixed #Text {
+	overflow: scroll;
+}
+h2 {
+	font-family: "Times New Roman", "ºÚÌå", "Î¢ÈíÑÅºÚ", "ĞÂËÎÌå";
+	font-size: 30px;
+	font-weight: 600;
+	color: #FFFFFF;
+}

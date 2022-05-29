@@ -1,0 +1,15 @@
+a:link {
+	font-weight: 500;
+	color: #FFFF00;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: 500;
+	color: #FFFFCC;
+	text-decoration: none;
+}
+a:hover {
+	font-weight: 500;
+	color: #FF3366;
+	text-decoration: none;
+}
