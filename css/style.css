@@ -1,5 +1,5 @@
 body {
-	font-family: "Times New Roman", "微软雅黑", "幼圆";
+	font-family: "Times New Roman", "Source Han Sans CN","Noto Sans SC", "幼圆";
 	font-size: 24px;
 	font-style: normal;
 	font-weight: 400;
@@ -8,7 +8,7 @@ body {
 	color: #FFFFFF;
 }
 h1 {
-	font-family: "Times New Roman", "黑体", "微软雅黑", "新宋体";
+	font-family: "Times New Roman", "黑体", "Source Han Sans CN", "新宋体";
 	font-size: 36px;
 	font-weight: 600;
 	color: #FFFFFF;
@@ -17,7 +17,7 @@ h1 {
 	overflow: scroll;
 }
 h2 {
-	font-family: "Times New Roman", "黑体", "微软雅黑", "新宋体";
+	font-family: "Times New Roman", "黑体", "Source Han Sans CN", "新宋体";
 	font-size: 30px;
 	font-weight: 600;
 	color: #FFFFFF;
